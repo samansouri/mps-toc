@@ -1,11 +1,11 @@
-### Algorithms for Master Production Scheduling under the Theory of Constraints
+#### Algorithms for Master Production Scheduling under the Theory of Constraints
 
-####			designed and developed by:
-####                           Afshin Mansouri© 
-####	    Brunel Business School, Brunel University, UK
-####	      	                Email: 
-####		    Afshin.Mansouri@brunel.ac.uk
-####		       samansouri@hotmail.com
+#####			Designed and developed by:
+#####                           Afshin Mansouri© 
+#####	    Brunel Business School, Brunel University, UK
+#####	      	                Email: 
+#####		    Afshin.Mansouri@brunel.ac.uk
+#####		       samansouri@hotmail.com
 
 
 ##Notes for users: 
