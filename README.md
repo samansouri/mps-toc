@@ -1,42 +1,15 @@
 # mps-toc
-Master Production Scheduling under the Theory of Constraints
+## Algorithms for Master Production Scheduling under the Theory of Constraints
+
+###			designed and developed by:
+###                           Afshin Mansouri© 
+###	    Brunel Business School, Brunel University, UK
+###	      	                Email: 
+###		    Afshin.Mansouri@brunel.ac.uk
+###		       samansouri@hotmail.com
 
 
-===========
-      Algorithms for Master Production Scheduling under Theory of Constraints
-                        
-			designed and developed by:
-                           Afshin Mansouri© 
-	    Brunel Business School, Brunel University, UK
-	      	                Email: 
-		    Afshin.Mansouri@brunel.ac.uk
-		       samansouri@hotmail.com
-==========
-
-========================================================================
-    APPLICATION : MPS-TOC Project Overview
-
-========================================================================
-
-AppWizard has created this MPS-TOC Application for you.  
-
-This file contains a summary of what you will find in each of the files that
-make up your MPS-TOC application.
-
-MPS-TOC.vcproj
-    This is the main project file for VC++ projects generated using an Application Wizard. 
-    It contains information about the version of Visual C++ that generated the file, and 
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-MPS-TOC.cpp
-    This is the main application source file.
-
-AssemblyInfo.cpp
-	Contains custom attributes for modifying assembly metadata.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes: 
+##Notes for users: 
 
 Preparation: Make sure you have created two folders named "Input" and "Output" next to your project.
 Data sets should be placed in the "Input" folder and the outputs will be saved in the "Output" folder.
@@ -62,4 +35,3 @@ A: Put the full name of the data file (including its extension) as an argument i
 Alternatively, you may enter the project name (MPS-TOC) followed by the name of the data set in command line.
  
 
-/////////////////////////////////////////////////////////////////////////////
