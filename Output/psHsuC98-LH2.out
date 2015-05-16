@@ -1,0 +1,56 @@
+Data Set psHsuC98-LH2:
+
+      Process Times on Resources
+Prod  A      B      C      D      E      F      G      Di        CMi       
+R     20     5      10     0      0      0      0      70        80        
+S     10     0      5      30     0      0      5      100       60        
+T     10     0      10     15     20     0      0      150       50        
+U     5      0      10     5      0      15     0      150       30        
+
+Capa   2400   2400   2400   2400   2400   2400   2400   
+Crit  0.881  0      0.73   0.778  0.235  0.168  0.013  
+
+End of Data Set
+---------------
+
+Final MPS of Fredendall and Lea (1997):
+
+              Left Capacity on Resources
+Prod   Qty    C         D         A         E         Throughput     
+S      66     2070      420       1740      2400      3960           
+R      67     1400      420       400       2400      5360           
+T      0      1400      420       400       2400      0              
+U      80     600       20        0         2400      2400           
+
+Total Throughput: 11720
+
+End of the MPS Table of Fredendall and Lea (1997)
+-------------------------------------------------
+
+Final MPS of Sobreiro and Nagano (2012):
+
+              Left Capacity on Resources
+Prod   Qty    D         A         C         E         Throughput     
+T      120    600       1200      1200      0         6000           
+R      56     600       80        640       0         4480           
+S      8      360       0         600       0         480            
+U      0      360       0         600       0         0              
+
+Total Throughput: 10960
+
+End of the MPS Table of Sobreiro and Nagano (2012)
+-------------------------------------------------
+
+Final MPS of COLOMAPS Algorithm:
+
+              Left Capacity on Resources
+Prod   Qty    A         D         C         E         Throughput     
+S      70     1700      300       2050      2400      4200           
+U      60     1400      0         1450      2400      1800           
+T      0      1400      0         1450      2400      0              
+R      70     0         0         750       2400      5600           
+
+Total Throughput: 11600
+
+End of the MPS Table of COLOMAPS Algorithm
+-------------------------------------------------

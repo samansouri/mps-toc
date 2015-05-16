@@ -1,0 +1,56 @@
+Data Set psHsuC98-HL3:
+
+      Process Times on Resources
+Prod  A      B      C      D      E      F      G      Di        CMi       
+R     20     5      10     0      5      5      20     60        80        
+S     10     10     5      30     5      5      5      55        60        
+T     10     5      10     15     20     5      10     40        50        
+U     5      0      10     5      5      15     0      100       30        
+
+Capa   2400   2400   2400   2400   2400   2400   2400   
+Crit  0.971  0      0.66   0.6    0.443  0.56   0.243  
+
+End of Data Set
+---------------
+
+Final MPS of Fredendall and Lea (1997):
+
+              Left Capacity on Resources
+Prod   Qty    A         D         Throughput     
+S      55     1850      750       3300           
+U      99     1355      255       2970           
+T      17     1185      0         850            
+R      59     5         0         4720           
+
+Total Throughput: 11840
+
+End of the MPS Table of Fredendall and Lea (1997)
+-------------------------------------------------
+
+Final MPS of Sobreiro and Nagano (2012):
+
+              Left Capacity on Resources
+Prod   Qty    D         A         Throughput     
+S      54     780       1860      3240           
+U      100    280       1360      3000           
+T      18     10        1180      900            
+R      59     10        0         4720           
+
+Total Throughput: 11860
+
+End of the MPS Table of Sobreiro and Nagano (2012)
+-------------------------------------------------
+
+Final MPS of COLOMAPS Algorithm:
+
+              Left Capacity on Resources
+Prod   Qty    A         D         Throughput     
+S      54     1860      780       3240           
+U      98     1370      290       2940           
+T      19     1180      5         950            
+R      59     0         5         4720           
+
+Total Throughput: 11850
+
+End of the MPS Table of COLOMAPS Algorithm
+-------------------------------------------------

@@ -1,0 +1,57 @@
+Data Set psHsuC98-LL1:
+
+      Process Times on Resources
+Prod  A      B      C      D      E      F      G      Di        CMi       
+R     20     5      0      0      0      5      0      70        80        
+S     10     10     5      0      0      5      0      60        60        
+T     10     5      0      0      0      5      10     50        50        
+U     5      15     0      5      5      15     0      150       30        
+
+Capa   2400   2400   2400   2400   2400   2400   2400   
+Crit  0.968  0.833  0      0.071  0.071  0.786  0.032  
+
+End of Data Set
+---------------
+
+Final MPS of Fredendall and Lea (1997):
+
+              Left Capacity on Resources
+Prod   Qty    A         B         F         Throughput     
+S      40     2000      2000      2200      2400           
+U      100    1500      500       700       3000           
+T      50     1000      250       450       2500           
+R      50     0         0         200       4000           
+
+Total Throughput: 11900
+
+End of the MPS Table of Fredendall and Lea (1997)
+-------------------------------------------------
+
+Final MPS of Sobreiro and Nagano (2012):
+
+              Left Capacity on Resources
+Prod   Qty    B         A         F         Throughput     
+R      56     2120      1280      2120      4480           
+S      60     1520      680       1820      3600           
+T      50     1270      180       1570      2500           
+U      36     730       0         1030      1080           
+
+Total Throughput: 11660
+
+End of the MPS Table of Sobreiro and Nagano (2012)
+-------------------------------------------------
+
+Final MPS of COLOMAPS Algorithm:
+
+              Left Capacity on Resources
+Prod   Qty    A         B         Throughput     
+S      60     1800      1800      3600           
+U      96     1320      360       2880           
+T      2      1300      350       100            
+R      65     0         25        5200           
+
+Total Throughput: 11780
+Dominated Bottlenecks: F, 
+
+End of the MPS Table of COLOMAPS Algorithm
+-------------------------------------------------

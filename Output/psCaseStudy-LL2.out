@@ -1,0 +1,60 @@
+Data Set psCaseStudy-LL2:
+
+      Process Times on Resources
+Prod  1      2      3      4      5      6      7      8      9      10     11     12     13     14     15     16     Di        CMi       
+A     1      0      0      1      1.5    0      0.5    0      0      0      0      0      0      0      0      0      1500      1500      
+B     0.5    0      1      1      2.3    1      0.5    0      0      0.5    3      0      0      0      0      0      2500      2200      
+C     0.5    0      0      0.5    0      2.6    2      0      0      0      0      4.75   9      2      1      0.6    2000      3000      
+D     1      2      0      0.5    2      0      0.75   2      0      0      0      0      1      0      0      0      1500      1700      
+E     0.5    0      0      2      1      1      1      0      0      0      0      0      0      0      0      0      500       2800      
+
+Capa   4750   13550  5390   8950   13520  9500   7150   13670  5950   2110   12500  11520  19700  4800   2400   1440   
+Crit  0.844  0.158  0.263  0.826  0.836  0.654  0.773  0.157  0      0.318  0.322  0.512  0.584  0.422  0.422  0.454  
+
+End of Data Set
+---------------
+
+Final MPS of Fredendall and Lea (1997):
+
+              Left Capacity on Resources
+Prod   Qty    7         1         Throughput     
+B      2500   5900      3500      5.5e+006       
+A      1500   5150      2000      2.25e+006      
+E      500    4650      1750      1.4e+006       
+D      750    4087.5    1000      1.275e+006     
+C      2000   87.5      0         6e+006         
+
+Total Throughput: 1.6425e+007
+
+End of the MPS Table of Fredendall and Lea (1997)
+-------------------------------------------------
+
+Final MPS of Sobreiro and Nagano (2012):
+
+              Left Capacity on Resources
+Prod   Qty    1         7         Throughput     
+B      2000   3750      6150      4.4e+006       
+E      500    3500      5650      1.4e+006       
+C      2000   2500      1650      6e+006         
+A      1350   1150      975       2.025e+006     
+D      1150   0         112.5     1.955e+006     
+
+Total Throughput: 1.578e+007
+
+End of the MPS Table of Sobreiro and Nagano (2012)
+-------------------------------------------------
+
+Final MPS of COLOMAPS Algorithm:
+
+              Left Capacity on Resources
+Prod   Qty    1         7         Throughput     
+C      1942   3779      3266      5.826e+006     
+E      500    3529      2766      1.4e+006       
+B      2500   2279      1516      5.5e+006       
+D      1500   779       391       2.55e+006      
+A      779    0         1.5       1.1685e+006    
+
+Total Throughput: 1.64445e+007
+
+End of the MPS Table of COLOMAPS Algorithm
+-------------------------------------------------

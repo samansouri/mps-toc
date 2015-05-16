@@ -1,0 +1,13 @@
+ProdNum=n;
+ResNum=m;
+Prod1:CODE,t_11,...,t_1m,D_1,CM_1;
+.
+.
+.
+Prodn:CODE,t_n1,...,t_nm,D_n,CM_m;
+Res1:CODE,C_1,gamma_1;
+.
+.
+.
+Resm:CODE,C_m,gamma_m;
+

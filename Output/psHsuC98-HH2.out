@@ -1,0 +1,57 @@
+Data Set psHsuC98-HH2:
+
+      Process Times on Resources
+Prod  A      B      C      D      E      F      G      Di        CMi       
+R     20     5      10     0      5      5      0      70        80        
+S     10     10     5      30     5      5      0      60        60        
+T     10     5      10     15     20     5      10     50        50        
+U     5      15     10     5      5      15     0      155       30        
+
+Capa   2400   2400   2400   2400   2400   2400   2400   
+Crit  0.959  0.833  0.81   0.745  0.652  0.784  0      
+
+End of Data Set
+---------------
+
+Final MPS of Fredendall and Lea (1997):
+
+              Left Capacity on Resources
+Prod   Qty    A         B         D         F         C         E         Throughput     
+S      40     2000      2000      1200      2200      2200      2200      2400           
+U      100    1500      500       700       700       1200      1700      3000           
+T      46     1040      270       10        470       740       780       2300           
+R      52     0         10        10        210       220       520       4160           
+
+Total Throughput: 11860
+
+End of the MPS Table of Fredendall and Lea (1997)
+-------------------------------------------------
+
+Final MPS of Sobreiro and Nagano (2012):
+
+              Left Capacity on Resources
+Prod   Qty    B         D         A         F         C         E         Throughput     
+R      65     2075      2400      1100      2075      1750      2075      5200           
+S      60     1475      600       500       1775      1450      1775      3600           
+U      98     5         110       10        305       470       1285      2940           
+T      1      0         95        0         300       460       1265      50             
+
+Total Throughput: 11790
+
+End of the MPS Table of Sobreiro and Nagano (2012)
+-------------------------------------------------
+
+Final MPS of COLOMAPS Algorithm:
+
+              Left Capacity on Resources
+Prod   Qty    A         B         D         C         E         Throughput     
+S      60     1800      1800      600       2100      2100      3600           
+U      96     1320      360       120       1140      1620      2880           
+T      2      1300      350       90        1120      1580      100            
+R      65     0         25        90        470       1255      5200           
+
+Total Throughput: 11780
+Dominated Bottlenecks: F, 
+
+End of the MPS Table of COLOMAPS Algorithm
+-------------------------------------------------
