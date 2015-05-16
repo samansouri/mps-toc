@@ -6,7 +6,7 @@
 ######	  Emails: Afshin.Mansouri@brunel.ac.uk , samansouri@hotmail.com
 
 ####Licensing
-This project is distributet under The GNU Lesser General Public License, version 3.0 (LGPL-3.0) http://opensource.org/licenses/LGPL-3.0
+This project is distributed under The GNU Lesser General Public License, version 3.0 (LGPL-3.0) http://opensource.org/licenses/LGPL-3.0
 
 #####Notes for users: 
 
