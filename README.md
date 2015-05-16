@@ -5,12 +5,13 @@
 ######	  Brunel Business School, Brunel University, UK
 ######	  Emails: Afshin.Mansouri@brunel.ac.uk , samansouri@hotmail.com
 
-####Notes for users: 
+#####Notes for users: 
 
-Preparation: Make sure you have created two folders named "Input" and "Output" next to your project.
+######Preparation and setup
+Make sure you have created two folders named "Input" and "Output" next to your project.
 Data sets should be placed in the "Input" folder and the outputs will be saved in the "Output" folder.
 
-######How to define a data set?
+######Defining a data set
 Problem sets should be defined in a text file using the following format and placed in the Input directory:
 
 ```
@@ -28,7 +29,7 @@ Res_1:CODE,C_1,gamma_1;
 Res_m:CODE,C_m,gamma_m;
 ```
 
-######How to solve a problem?
+######Solving a problem
 Put the full name of the data file (including its extension) as an argument in Visual C++ and then run the code. 
 Alternatively, you may enter the project name (MPS-TOC) followed by the name of the data set in command line.
  
