@@ -1,5 +1,5 @@
 #
-##### Algorithms for Master Production Scheduling under the Theory of Constraints
+#### Algorithms for Master Production Scheduling under the Theory of Constraints
 
 #####			Designed and developed by:
 #####   Dr Afshin Mansouri© 
