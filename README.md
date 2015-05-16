@@ -1,14 +1,14 @@
 #### Algorithms for Master Production Scheduling under the Theory of Constraints
 
 #####			Designed and developed by:
-#####                           Afshin Mansouri© 
-#####	    Brunel Business School, Brunel University, UK
-#####	      	                Email: 
-#####		    Afshin.Mansouri@brunel.ac.uk
-#####		       samansouri@hotmail.com
+#####   Dr Afshin Mansouri© 
+#####	  Brunel Business School, Brunel University, UK
+#####	  Email: 
+#####		 Afshin.Mansouri@brunel.ac.uk
+#####		 samansouri@hotmail.com
 
 
-##Notes for users: 
+####Notes for users: 
 
 Preparation: Make sure you have created two folders named "Input" and "Output" next to your project.
 Data sets should be placed in the "Input" folder and the outputs will be saved in the "Output" folder.
