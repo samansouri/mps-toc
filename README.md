@@ -1,9 +1,13 @@
 ##### Algorithms for Master Production Scheduling under the Theory of Constraints
 
+###### C++ code and data sets used in the following paper:
+###### Golmohammadi, D., & Mansouri, S. A. (2015). Complexity and workload considerations in product mix decisions under the theory of constraints, Naval Research Logistics (in press, doi: 10.1002/nav.21632), Available on: http://onlinelibrary.wiley.com/doi/10.1002/nav.21632/full
+
 ######			Designed and developed by:
 ######   Dr Afshin Mansouri© 
 ######	  Brunel Business School, Brunel University, UK
 ######	  Emails: Afshin.Mansouri@brunel.ac.uk , samansouri@hotmail.com
+
 
 ####Licensing
 This project is distributed under The GNU Lesser General Public License, version 3.0 (LGPL-3.0) http://opensource.org/licenses/LGPL-3.0
